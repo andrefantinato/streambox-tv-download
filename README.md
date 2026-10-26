@@ -12,8 +12,27 @@ https://github.com/andrefantinato/streambox-tv-download/releases/latest/download
 
 ---
 
+## Telas
+
+> Imagens feitas com um catálogo **fictício** de demonstração: títulos, capas e canais foram inventados. O app não vem com nenhum conteúdo.
+
+| Filmes | Tela do filme |
+|---|---|
+| ![Grade de filmes com capas, favorito e progresso](screenshots/03-filmes.png) | ![Tela do filme com sinopse, ficha técnica e botão Continuar](screenshots/04-filme-detalhes.png) |
+
+| Séries | Temporadas e episódios |
+|---|---|
+| ![Grade de séries](screenshots/05-series.png) | ![Tela da série com temporadas, episódios e progresso](screenshots/06-serie-detalhes.png) |
+
+| Canais ao vivo | Player (o título aparece só ao pausar) |
+|---|---|
+| ![Grade de canais ao vivo](screenshots/02-ao-vivo.png) | ![Player pausado mostrando o título e a barra de tempo](screenshots/07-player-pausado.png) |
+
+---
+
 ## Sumário
 
+- [Telas](#telas)
 - [Compatibilidade](#compatibilidade)
 - [Instalar no Fire TV (Fire Stick) com o Downloader](#instalar-no-fire-tv-fire-stick-com-o-downloader)
 - [Instalar em TVs Android / Google TV](#instalar-em-tvs-android--google-tv)
@@ -138,6 +157,8 @@ https://github.com/andrefantinato/streambox-tv-download/releases/latest/download
 4. Selecione **CONECTAR**.
 
 O primeiro carregamento de uma lista grande pode levar alguns segundos. Depois disso, a lista fica guardada no aparelho e abre bem mais rápido.
+
+![Tela de primeiro acesso com o tipo Playlist M3U e o endereço da lista](screenshots/01-login.png)
 
 ### Tela principal
 
